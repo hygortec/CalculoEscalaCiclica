@@ -1,0 +1,18 @@
+e:\documents\visual studio 2015\Projects\CalculoEscalaSiclica\CalculoEscalaSiclica\bin\Debug\CalculoEscalaSiclica.exe.config
+e:\documents\visual studio 2015\Projects\CalculoEscalaSiclica\CalculoEscalaSiclica\bin\Debug\CalculoEscalaSiclica.exe
+e:\documents\visual studio 2015\Projects\CalculoEscalaSiclica\CalculoEscalaSiclica\bin\Debug\CalculoEscalaSiclica.pdb
+e:\documents\visual studio 2015\Projects\CalculoEscalaSiclica\CalculoEscalaSiclica\obj\Debug\CalculoEscalaSiclica.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\CalculoEscalaSiclica\CalculoEscalaSiclica\obj\Debug\CalculoEscalaSiclica.Form1.resources
+e:\documents\visual studio 2015\Projects\CalculoEscalaSiclica\CalculoEscalaSiclica\obj\Debug\CalculoEscalaSiclica.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\CalculoEscalaSiclica\CalculoEscalaSiclica\obj\Debug\CalculoEscalaSiclica.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\CalculoEscalaSiclica\CalculoEscalaSiclica\obj\Debug\CalculoEscalaSiclica.exe
+e:\documents\visual studio 2015\Projects\CalculoEscalaSiclica\CalculoEscalaSiclica\obj\Debug\CalculoEscalaSiclica.pdb
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculoEscalaSiclica\CalculoEscalaSiclica\bin\Debug\CalculoEscalaSiclica.exe.config
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculoEscalaSiclica\CalculoEscalaSiclica\bin\Debug\CalculoEscalaSiclica.exe
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculoEscalaSiclica\CalculoEscalaSiclica\bin\Debug\CalculoEscalaSiclica.pdb
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculoEscalaSiclica\CalculoEscalaSiclica\obj\Debug\CalculoEscalaSiclica.csprojAssemblyReference.cache
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculoEscalaSiclica\CalculoEscalaSiclica\obj\Debug\CalculoEscalaSiclica.Form1.resources
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculoEscalaSiclica\CalculoEscalaSiclica\obj\Debug\CalculoEscalaSiclica.Properties.Resources.resources
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculoEscalaSiclica\CalculoEscalaSiclica\obj\Debug\CalculoEscalaSiclica.csproj.GenerateResource.cache
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculoEscalaSiclica\CalculoEscalaSiclica\obj\Debug\CalculoEscalaSiclica.exe
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\CalculoEscalaSiclica\CalculoEscalaSiclica\obj\Debug\CalculoEscalaSiclica.pdb
